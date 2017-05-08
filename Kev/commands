@@ -1,0 +1,7 @@
+heroku logs --app chwl
+
+git add .
+git commit -am "updated admin page"
+git push heroku master
+
+
